@@ -3,7 +3,7 @@
 I'm Student of Computer Science iin Pertamina University, enthusiastic and ambitious full stack developer, I'm very good work as a team and very like meet with new people.
 
 
-- 👀 I’m interested in Machine Learning  Python, HTML, CSS, JS, PHP, C++.
+- 👀 I’m interested in Machine Learning  (Python, HTML, CSS, JS, PHP, C++).
 - 🌱 I’m currently learning "Machine Learning and Front End Web" by Dicoding. [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) [Dicoding](https://www.dicoding.com/)
 - 📫 How to reach me on : [LinkedIn](https://www.linkedin.com/in/lalu-ardita-arip-b714a11a4/) 
 

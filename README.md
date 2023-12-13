@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lalu Ardita Arip
 
-I'm Student of Computer Science iin Pertamina University, enthusiastic and ambitious full stack developer, I'm very good work as a team and very like meet with new people.
+I'm graduate from Computer Science iin Pertamina University, enthusiastic and ambitious full stack developer, I'm very good work as a team and very like meet with new people.
 
 
 - 👀 I’m interested in Machine Learning  (Python, HTML, CSS, JS, PHP, C++).
